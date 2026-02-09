@@ -1,8 +1,7 @@
 ## 👋 Hi there, I’m Sravika!
 
-I’m a Computer Science master’s student and software engineer who enjoys building practical, data-driven systems. I like working on problems where machine learning, backend engineering, and infrastructure come together to create something useful and reliable.
+I’m a software engineer focused on building AI and machine learning systems that solve real-world problems. I enjoy working across ML, backend engineering, and infrastructure to ship practical, reliable solutions.
 
-Most of my work focuses on applied machine learning, automation, and backend development — taking ideas from raw data to working systems. I care about clean design, measurable results, and building things that actually hold up beyond a demo.
 
 ---
 
@@ -34,8 +33,15 @@ Most of my work focuses on applied machine learning, automation, and backend dev
  
 
 ### 🎮 Visualization & Simulation
-Unreal Engine 5 (C++ / Blueprints) · Unity (C#) · ArcGIS  
-3D Data Visualization  
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Blueprints](https://img.shields.io/badge/Blueprints-1E90FF?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7BE5?style=for-the-badge)
+![3D Visualization](https://img.shields.io/badge/3D%20Data%20Visualization-4CAF50?style=for-the-badge)
+  
 
 ---
 
@@ -49,6 +55,13 @@ Here you’ll find projects where I’ve:
 Each repository reflects hands-on learning and problem-solving, not just experiments.
 
 ---
+
+## 📊 GitHub Stats
+
+![Sravika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sravika-G&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravika-G&layout=compact&theme=dark)
+
 
 ## 📊 What I Value as an Engineer
 - Writing clear, maintainable code  
