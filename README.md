@@ -9,20 +9,29 @@ Most of my work focuses on applied machine learning, automation, and backend dev
 ## 💻 When I code, I rely on
 
 ### 🧠 Machine Learning & Data
-Python · scikit-learn · Pandas · NumPy · Facebook Prophet  
-Matplotlib · Seaborn · Streamlit · Feature Engineering · Model Evaluation  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### ⚙️ Software Engineering
-C++ · C# · Java · JavaScript · SQL  
-Object-Oriented Design · Data Structures & Algorithms  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-AWS (EC2, Shield) · Microsoft Azure  
-Docker · Kubernetes · GitHub Actions · Jenkins · CI/CD  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🌐 Web & Systems
-Flask · React · HTML · CSS  
-Linux · Git · REST APIs  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ 
 
 ### 🎮 Visualization & Simulation
 Unreal Engine 5 (C++ / Blueprints) · Unity (C#) · ArcGIS  
